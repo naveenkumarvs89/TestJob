@@ -15,6 +15,7 @@ public class TestApp {
 	private WebDriver cdriver =null;
 	private WebDriver driver =null;
 	
+	//To be deleted 
 	/*@Test
 	public void test1() {
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\u71712\\Downloads\\chromedriver_win32\\chromedriver.exe");
