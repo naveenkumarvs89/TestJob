@@ -1,5 +1,5 @@
 #!/bin/sh
-cd /d/wamp/www/projectName
+cd C:\Users\Milo\Desktop\TestJob
 git status
 git add .
 git commit -am "TestCommit"
